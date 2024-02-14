@@ -15,6 +15,7 @@ function Login({ setIsLoggedIn }) {
     });
   }
 
+    //function to handle submit
   function handleSubmit(e) {
     e.preventDefault();
 
